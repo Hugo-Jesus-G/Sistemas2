@@ -1,8 +1,0 @@
-La clase Java llamada `Directorio` 
-tiene un campo privado llamado `archivos` 
-que es una lista dinámica (implementada 
-como un `ArrayList`) que almacena 
-objetos de la clase `Archivo`. El 
-constructor `Directorio()` se encarga 
-de inicializar esta lista cuando se 
-crea una instancia de la clase `Directorio`. 

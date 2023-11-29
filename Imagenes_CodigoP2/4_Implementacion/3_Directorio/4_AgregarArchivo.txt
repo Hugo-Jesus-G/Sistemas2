@@ -1,7 +1,0 @@
-Este método, llamado `agregarArchivo`, 
-se utiliza para agregar un objeto de 
-la clase `Archivo` a la lista de archivos 
-(`archivos`) en ese directorio. La 
-línea de código `archivos.add(a);` 
-agrega el objeto `a` al final de la 
-lista de archivos en el directorio. 
